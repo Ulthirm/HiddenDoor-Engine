@@ -1,0 +1,11 @@
+[logging]
+    # This is the log level that VoiceRS will use.
+    # Default: Info
+    level = "Info"
+
+    [discord]
+    # This defines the Discord token for the bot
+    # This is required for the bot to function
+    # default: ""
+    bot_token = ""
+    
